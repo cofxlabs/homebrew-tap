@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Cofx < Formula
+class CofxATv001 < Formula
   desc "CoFx is a powerful automation workflow engine based on low code programming language"
   homepage ""
   url "https://github.com/cofxlabs/cofx/releases/download/v0.0.1/cofx-darwin-amd64.tar.gz"
